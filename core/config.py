@@ -1,4 +1,4 @@
-changes = '''URL rewriting support'''
+changes = '''Negligible DOM XSS false positives;x10 faster crawling'''
 globalVariables = {}  # it holds variables during runtime for collaboration across modules
 
 defaultEditor = 'nano'
